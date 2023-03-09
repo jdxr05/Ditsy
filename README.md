@@ -1,2 +1,1 @@
-# ditsy
-Ditsy Engine
+# Ditsy Engine
