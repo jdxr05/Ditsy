@@ -2,10 +2,10 @@
 
 #ifdef DS_PLATFORM_WINDOWS
 	#ifdef DS_BUILD_DLL
-		#define DAISY_API __declspec(dllexport)
+		#define DITSY_API __declspec(dllexport)
 	#else
-		#define DAISY_API __declspec(dllimport)
+		#define DITSY_API __declspec(dllimport)
 	#endif
 #else
-	#error Daisy only supports Windows!
+	#error Ditsy only supports Windows!
 #endif
