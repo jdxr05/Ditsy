@@ -2,8 +2,8 @@
 
 // For use by Ditsy applications
 
-#include <stdio.h>
 #include "Ditsy/Application.h"
+#include "Ditsy/Log.h"
 
 // ---Entry Point ----------------
 #include <Ditsy/EntryPoint.h>

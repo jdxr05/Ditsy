@@ -1,0 +1,3 @@
+[submodule "Ditsy/vendor/spdlog"]
+	path = Ditsy/vendor/spdlog
+	url = https://github.com/gabime/spdlog

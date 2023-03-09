@@ -4,7 +4,7 @@
 
 namespace Ditsy {
 
-	class DAISY_API Application
+	class DITSY_API Application
 	{
 	public:
 		Application();
